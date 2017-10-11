@@ -1,0 +1,15 @@
+{
+    "name": "jonathan/text-analyzer",
+    "description": "PHP text analysis tool capable of text lemmatization and gram analysis",
+    "type": "project",
+    "require": {
+        "symfony/var-dumper": "^3.3",
+        "symfony/console": "^3.3"
+    },
+    "authors": [
+        {
+            "name": "Jonathan Witchard",
+            "email": "jwitch99@vt.edu"
+        }
+    ]
+}
